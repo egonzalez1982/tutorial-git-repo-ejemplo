@@ -6,4 +6,4 @@ Línea 3
 
 Línea 4
 
-Línea agragada en el repositorio remoto
+Línea agregada en el repositorio remoto
